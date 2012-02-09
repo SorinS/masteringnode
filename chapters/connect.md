@@ -1,4 +1,0 @@
-
-# Connect
-
-Connect is a ...
